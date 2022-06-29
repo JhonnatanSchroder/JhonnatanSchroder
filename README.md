@@ -5,8 +5,8 @@
 - 💬 Contate-me no email: jhonnatangustavo012@gmail.com
 <div align="center">
   <a href="https://github.com/JhonnatanSchroder">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonnatanSchroder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnatanSchroder&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonnatanSchroder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnatanSchroder&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
